@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "83d51e4f878d2cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "63fbc4ca2a054112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011f1e61277831a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studies/Nerworks/IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8a1544661ee37e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ea135f2aa74bb13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a6c8386bdff74f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8399ccb55ba139ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e277287aed98c15f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f522f51ea0afce4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef2eb4b5e1d60603",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8fa84649b2d3781",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Studies/Nerworks/IP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for IP"
+            }
+          },
+          {
+            "id": "3414b0e8bb68dcab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Studies/Nerworks/IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IP"
+            }
+          },
+          {
+            "id": "12bba1c663835970",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7407bff24c234621",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Studies/Nerworks/IP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6a6c8386bdff74f4",
+  "lastOpenFiles": [
+    "Studies/Nerworks/IP.md",
+    "Studies/Nerworks/LAN.md",
+    "Studies/Nerworks/IPv4.md",
+    "Studies/Nerworks/MAC.md",
+    "Studies/Nerworks/Неполносвязные сети/Звезда.md",
+    "Studies/Nerworks/Ethernet.md",
+    "Studies/Nerworks/Хаб.md",
+    "Studies/Nerworks/Топология сети.md",
+    "Studies/Nerworks/Физическая топология.md",
+    "Studies/Nerworks/Полносвязные сети.md",
+    "Studies/Nerworks/Логическая топология.md",
+    "Studies/Nerworks/Неполносвязные сети/Неполносвязные сети.md",
+    "Studies/Nerworks/Неполносвязные сети/Шина.md",
+    "Studies/Nerworks/Неполносвязные сети/Кольцо.md",
+    "Pasted image 20241111184359.png",
+    "Studies/Nerworks/Oктет.md",
+    "Studies/Nerworks/src/Pasted image 20241111180650.png",
+    "Studies/Nerworks/Концентратор.md",
+    "Studies/Nerworks/Неполносвязные сети",
+    "Studies/Nerworks/Логическая топология",
+    "Studies/Nerworks/src/Topologies-ring.gif",
+    "Studies/Nerworks/src",
+    "Studies/Nerworks/src/Topologies-star.gif",
+    "Studies/Nerworks/src/Topologies-bus.gif",
+    "Studies/Nerworks/Неполносвязные.md",
+    "Studies/Nerworks/Полносвязные.md",
+    "компьютер.md",
+    "Полносвязаные.md",
+    "Топология сети.md",
+    "логическую.md",
+    "Studies",
+    "Studies/Nerworks",
+    "Welcome.md"
+  ]
+}
