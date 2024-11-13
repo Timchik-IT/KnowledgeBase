@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "63fbc4ca2a054112",
+        "id": "1449fec5dd1e69f2",
         "type": "tabs",
         "children": [
           {
-            "id": "011f1e61277831a2",
+            "id": "173601be84b1921c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Nerworks/IP.md",
+                "file": "Linux/Дистрибутивы/ArchLinux/Wifi Connection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP"
+              "title": "Wifi Connection"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Nerworks/IP.md",
+                "file": "Linux/Дистрибутивы/ArchLinux/Wifi Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IP"
+              "title": "Backlinks for Wifi Connection"
             }
           },
           {
@@ -162,40 +162,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a6c8386bdff74f4",
+  "active": "173601be84b1921c",
   "lastOpenFiles": [
-    "Studies/Nerworks/IP.md",
-    "Studies/Nerworks/LAN.md",
-    "Studies/Nerworks/IPv4.md",
-    "Studies/Nerworks/MAC.md",
+    "Linux/Linux.md",
+    "Linux/Дистрибутивы/ArchLinux/ArchLinux.md",
+    "Linux/Дистрибутивы/ArchLinux/Wifi Connection.md",
+    "Books/Untitled.md",
+    "Books/Untitled.canvas",
+    "Templates/Book Template.md",
+    "Books",
+    "Templates/Daily Template.md",
+    "Templates/Default Template.md",
+    "Src/Pasted image 20241111180650.png",
+    "Templates",
+    "Daily",
+    "Linux/GNU.md",
+    "Linux/Проект GNU.md",
+    "Src/Pasted image 20241112182101.png",
+    "Linux/Parabola.md",
+    "Src",
+    "Linux/Файловый менеджер/Thunar.md",
+    "Linux/Пакетный менеджер/Pacman.md",
+    "Linux/Пакетный менеджер/Пакетный менеджер.md",
+    "менеджером пакетов.md",
+    "Linux/Файловый менеджер/Файловый менеджер.md",
+    "Linux/Файловый менеджер",
     "Studies/Nerworks/Неполносвязные сети/Звезда.md",
-    "Studies/Nerworks/Ethernet.md",
-    "Studies/Nerworks/Хаб.md",
-    "Studies/Nerworks/Топология сети.md",
-    "Studies/Nerworks/Физическая топология.md",
-    "Studies/Nerworks/Полносвязные сети.md",
-    "Studies/Nerworks/Логическая топология.md",
     "Studies/Nerworks/Неполносвязные сети/Неполносвязные сети.md",
     "Studies/Nerworks/Неполносвязные сети/Шина.md",
-    "Studies/Nerworks/Неполносвязные сети/Кольцо.md",
+    "Studies/Nerworks/Полносвязные сети.md",
+    "Pasted image 20241112200940.png",
+    "Linux/Пакетный менеджер",
+    "[[База.md",
+    "Linux/Система управления пакетами",
+    "Linux/Дистрибутивы/Дистрибутивы.md",
+    "Studies/Nerworks/LAN.md",
+    "Src/Pasted image 20241112192850.png",
+    "Programming/KISS.md",
+    "Programming",
+    "Src/Pasted image 20241112184959.jpg",
+    "Pasted image 20241112184906.png",
+    "Linux/Дистрибутивы/ArchLinux/Философия Arch Linux.md",
+    "Linux/src",
+    "Linux/Rolling relese.md",
+    "Linux/Дистрибутивы/ArchLinux",
+    "свободного и открытого программного обеспечения.md",
     "Pasted image 20241111184359.png",
-    "Studies/Nerworks/Oктет.md",
-    "Studies/Nerworks/src/Pasted image 20241111180650.png",
-    "Studies/Nerworks/Концентратор.md",
-    "Studies/Nerworks/Неполносвязные сети",
-    "Studies/Nerworks/Логическая топология",
-    "Studies/Nerworks/src/Topologies-ring.gif",
-    "Studies/Nerworks/src",
-    "Studies/Nerworks/src/Topologies-star.gif",
-    "Studies/Nerworks/src/Topologies-bus.gif",
-    "Studies/Nerworks/Неполносвязные.md",
-    "Studies/Nerworks/Полносвязные.md",
-    "компьютер.md",
-    "Полносвязаные.md",
-    "Топология сети.md",
-    "логическую.md",
-    "Studies",
-    "Studies/Nerworks",
-    "Welcome.md"
+    "Src/Topologies-ring.gif",
+    "Src/Topologies-star.gif",
+    "Src/Topologies-bus.gif"
   ]
 }
