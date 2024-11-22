@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1449fec5dd1e69f2",
+        "id": "599ba14a3fc0b7ce",
         "type": "tabs",
         "children": [
           {
-            "id": "173601be84b1921c",
+            "id": "259dce938d41b660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Дистрибутивы/ArchLinux/Wifi Connection.md",
+                "file": "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Program и Main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wifi Connection"
+              "title": "Program и Main"
+            }
+          },
+          {
+            "id": "3adcef4c07c0f861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studies/Linux/Console/Команды над группами пользователей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Команды над группами пользователей"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Дистрибутивы/ArchLinux/Wifi Connection.md",
+                "file": "Studies/Nerworks/Адресация/Маска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wifi Connection"
+              "title": "Backlinks for Маска"
             }
           },
           {
@@ -144,6 +159,16 @@
               "icon": "lucide-list",
               "title": "Outline of IP"
             }
+          },
+          {
+            "id": "49b0a8a35cc7c34e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ]
       }
@@ -159,57 +184,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "173601be84b1921c",
+  "active": "3adcef4c07c0f861",
   "lastOpenFiles": [
-    "Linux/Linux.md",
-    "Linux/Дистрибутивы/ArchLinux/ArchLinux.md",
-    "Linux/Дистрибутивы/ArchLinux/Wifi Connection.md",
-    "Books/Untitled.md",
-    "Books/Untitled.canvas",
-    "Templates/Book Template.md",
-    "Books",
-    "Templates/Daily Template.md",
-    "Templates/Default Template.md",
-    "Src/Pasted image 20241111180650.png",
-    "Templates",
-    "Daily",
-    "Linux/GNU.md",
-    "Linux/Проект GNU.md",
-    "Src/Pasted image 20241112182101.png",
-    "Linux/Parabola.md",
-    "Src",
-    "Linux/Файловый менеджер/Thunar.md",
-    "Linux/Пакетный менеджер/Pacman.md",
-    "Linux/Пакетный менеджер/Пакетный менеджер.md",
-    "менеджером пакетов.md",
-    "Linux/Файловый менеджер/Файловый менеджер.md",
-    "Linux/Файловый менеджер",
-    "Studies/Nerworks/Неполносвязные сети/Звезда.md",
-    "Studies/Nerworks/Неполносвязные сети/Неполносвязные сети.md",
-    "Studies/Nerworks/Неполносвязные сети/Шина.md",
-    "Studies/Nerworks/Полносвязные сети.md",
-    "Pasted image 20241112200940.png",
-    "Linux/Пакетный менеджер",
-    "[[База.md",
-    "Linux/Система управления пакетами",
-    "Linux/Дистрибутивы/Дистрибутивы.md",
-    "Studies/Nerworks/LAN.md",
-    "Src/Pasted image 20241112192850.png",
-    "Programming/KISS.md",
-    "Programming",
-    "Src/Pasted image 20241112184959.jpg",
-    "Pasted image 20241112184906.png",
-    "Linux/Дистрибутивы/ArchLinux/Философия Arch Linux.md",
-    "Linux/src",
-    "Linux/Rolling relese.md",
-    "Linux/Дистрибутивы/ArchLinux",
-    "свободного и открытого программного обеспечения.md",
-    "Pasted image 20241111184359.png",
-    "Src/Topologies-ring.gif",
-    "Src/Topologies-star.gif",
-    "Src/Topologies-bus.gif"
+    "Studies/Linux/Console/Команды над пользователем.md",
+    "Studies/Linux/Console/Команды над группами пользователей.md",
+    "Studies/Linux/Console/Команды над ссылками.md",
+    "Studies/Linux/UID.md",
+    "Studies/Linux/Пользователь.md",
+    "Studies/Linux/Суперпользователь.md",
+    "Studies/Linux/Файловый менеджер/Структура файловой системы.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Null.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Program и Main.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Типы данных.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Структуры.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Свойства.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Пространства имен.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Перегрузка методов.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Область видимости.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Модификатор static.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Модификатор доступа.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Конструкторы.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Константы, поля и структуры для чтения.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Класс.md",
+    "Studies/Programming/DOTNET/CS.md",
+    "Studies/Programming/DOTNET/ООП в dotnet",
+    "Src/Pasted image 20241121211528.png",
+    "Src/Pasted image 20241121205236.png",
+    "Src/Pasted image 20241121203427.png",
+    "Src/Pasted image 20241121203218.png",
+    "Src/Pasted image 20241121203103.png",
+    "Src/Pasted image 20241121202949.png",
+    "Src/Pasted image 20241121202915.png",
+    "Studies/Programming/DOTNET/JIT.md",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet",
+    "Studies/Programming/DOTNET/Основы программирования dotnet",
+    "Studies/Linux/Console/Команды над файлами и директориями.md",
+    "Studies/Linux/Файловый менеджер/Thunar.md",
+    "Studies/Linux/Файловый менеджер/Файловый менеджер.md",
+    "Studies/Linux/Пакетный менеджер/Pacman.md",
+    "Src/Pasted image 20241119203250.png",
+    "Src/Pasted image 20241119203145.jpg",
+    "Src/photo_2024-11-19_18-51-17.jpg",
+    "Studies/Nerworks/Адресация",
+    "Studies/Programming/OOP",
+    "Studies/Programming/DOTNET",
+    "Studies/Nerworks/Топология",
+    "Studies/DataBase",
+    "Studies/Untitled.canvas",
+    "Studies/Linux/Console",
+    "Studies/Linux/История",
+    "Books/Untitled.canvas"
   ]
 }
