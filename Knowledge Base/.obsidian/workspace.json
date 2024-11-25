@@ -8,35 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3adcef4c07c0f861",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "259dce938d41b660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Program и Main.md",
+                "file": "Studies/Programming/DOTNET/CS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Program и Main"
-            }
-          },
-          {
-            "id": "3adcef4c07c0f861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Linux/Console/Команды над группами пользователей.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Команды над группами пользователей"
+              "title": "CS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,27 +185,35 @@
   },
   "active": "3adcef4c07c0f861",
   "lastOpenFiles": [
-    "Studies/Linux/Console/Команды над пользователем.md",
+    "Studies/Programming/DOTNET/CS.md",
+    "Studies/Programming/DOTNET/JIT.md",
+    "Studies/Programming/DOTNET/ООП в dotnet/Наследование обобщенных типов.md",
+    "Studies/Programming/DOTNET/ООП в dotnet/Наследование.md",
+    "Studies/Programming/DOTNET/ООП в dotnet/Абстрактные классы.md",
+    "Studies/Programming/DOTNET/ООП в dotnet/Виртуальные методы и свойства.md",
+    "Studies/Programming/DOTNET/ООП в dotnet/Класс System.Object.md",
+    "Studies/Programming/DOTNET/ООП в dotnet/Ограничения обобщений.md",
+    "Studies/Programming/DOTNET/ООП в dotnet/Обобщения Generic.md",
+    "Studies/Programming/DOTNET/ООП в dotnet/Разница между скрытием и переопределением.md",
+    "Studies/Nerworks/Сети.md",
+    "Studies/Тик",
+    "Studies/Programming/DOTNET/ООП в dotnet/Скрытие методов и свойств.md",
+    "Studies/Programming/DOTNET/ООП в dotnet/Преобразование типов.md",
+    "Src/Pasted image 20241122150155.png",
+    "Src/Pasted image 20241122145931.png",
+    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Program и Main.md",
     "Studies/Linux/Console/Команды над группами пользователей.md",
+    "Studies/Linux/Console/Команды над пользователем.md",
     "Studies/Linux/Console/Команды над ссылками.md",
     "Studies/Linux/UID.md",
     "Studies/Linux/Пользователь.md",
     "Studies/Linux/Суперпользователь.md",
     "Studies/Linux/Файловый менеджер/Структура файловой системы.md",
     "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Null.md",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Program и Main.md",
     "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Типы данных.md",
     "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Структуры.md",
     "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Свойства.md",
     "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Пространства имен.md",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Перегрузка методов.md",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Область видимости.md",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Модификатор static.md",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Модификатор доступа.md",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Конструкторы.md",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Константы, поля и структуры для чтения.md",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Класс.md",
-    "Studies/Programming/DOTNET/CS.md",
     "Studies/Programming/DOTNET/ООП в dotnet",
     "Src/Pasted image 20241121211528.png",
     "Src/Pasted image 20241121205236.png",
@@ -219,16 +222,9 @@
     "Src/Pasted image 20241121203103.png",
     "Src/Pasted image 20241121202949.png",
     "Src/Pasted image 20241121202915.png",
-    "Studies/Programming/DOTNET/JIT.md",
     "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet",
     "Studies/Programming/DOTNET/Основы программирования dotnet",
-    "Studies/Linux/Console/Команды над файлами и директориями.md",
-    "Studies/Linux/Файловый менеджер/Thunar.md",
-    "Studies/Linux/Файловый менеджер/Файловый менеджер.md",
-    "Studies/Linux/Пакетный менеджер/Pacman.md",
     "Src/Pasted image 20241119203250.png",
-    "Src/Pasted image 20241119203145.jpg",
-    "Src/photo_2024-11-19_18-51-17.jpg",
     "Studies/Nerworks/Адресация",
     "Studies/Programming/OOP",
     "Studies/Programming/DOTNET",
@@ -236,7 +232,6 @@
     "Studies/DataBase",
     "Studies/Untitled.canvas",
     "Studies/Linux/Console",
-    "Studies/Linux/История",
     "Books/Untitled.canvas"
   ]
 }
