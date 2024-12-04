@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Nerworks/Адресация/Proxy ARP.md",
+                "file": "Studies/Nerworks/Лабы/5.2 - Разрешение маков разных подсетей через комутатор.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy ARP"
+              "title": "5.2 - Разрешение маков разных подсетей через комутатор"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Nerworks/Адресация/ARP.md",
+                "file": "Studies/Nerworks/Лабы/5.1 - Разрешение MAC адресов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARP"
+              "title": "5.1 - Разрешение MAC адресов"
             }
           }
         ]
@@ -189,11 +189,13 @@
   },
   "active": "3adcef4c07c0f861",
   "lastOpenFiles": [
+    "Studies/Nerworks/Лабы/5.1 - Разрешение MAC адресов.md",
+    "Studies/Nerworks/Лабы/5.2 - Разрешение маков разных подсетей через комутатор.md",
     "Studies/Nerworks/Адресация/ARP.md",
+    "Src/Pasted image 20241204115111.png",
     "Studies/Nerworks/Адресация/Proxy ARP.md",
     "Src/Pasted image 20241203203617.png",
     "Studies/Nerworks/Адресация/MAC.md",
-    "Studies/Nerworks/Лабы/5.1 - Разрешение MAC адресов.md",
     "Src/Pasted image 20241203173135.png",
     "Studies/Nerworks/Лабы/Лабы по сетям.md",
     "Studies/Nerworks/Адресация/Маска.md",
@@ -217,7 +219,6 @@
     "Studies/Programming/DOTNET/ООП в dotnet/Разница между скрытием и переопределением.md",
     "Studies/Nerworks/Сети.md",
     "Studies/Тик",
-    "Studies/Programming/DOTNET/ООП в dotnet/Скрытие методов и свойств.md",
     "Src/Pasted image 20241122150155.png",
     "Src/Pasted image 20241122145931.png",
     "Studies/Programming/DOTNET/ООП в dotnet",
@@ -226,7 +227,6 @@
     "Src/Pasted image 20241121203427.png",
     "Src/Pasted image 20241121203218.png",
     "Src/Pasted image 20241121203103.png",
-    "Src/Pasted image 20241121202949.png",
     "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet",
     "Studies/Programming/DOTNET/Основы программирования dotnet",
     "Studies/Nerworks/Адресация",
