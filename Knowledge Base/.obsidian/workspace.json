@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd0c31a9253a6394",
+        "id": "424734a9d6f3538e",
         "type": "tabs",
         "children": [
           {
-            "id": "78103e34dc3faafd",
+            "id": "77b3068f624846d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Linux/Console/Команды настройки доступа к файлам.md",
+                "file": "Studies/Networks/Лабы/6 - Автоматическая выдача ip адресов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды настройки доступа к файлам"
-            }
-          },
-          {
-            "id": "a0c8dabc3db5c976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Linux/Console/Команды над файлами и директориями.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Команды над файлами и директориями"
-            }
-          },
-          {
-            "id": "fb71722b145bb501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Linux/Console/Команды над файлами и директориями.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Команды над файлами и директориями"
-            }
-          },
-          {
-            "id": "c2720d12ed945d83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Linux/Console/Команды над группами пользователей.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Команды над группами пользователей"
+              "title": "6 - Автоматическая выдача ip адресов"
             }
           }
         ]
@@ -215,18 +173,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78103e34dc3faafd",
+  "active": "77b3068f624846d0",
   "lastOpenFiles": [
-    "Studies/Linux/Console/Команды настройки производительности системы..md",
     "Studies/Linux/Console/Команды над группами пользователей.md",
     "Studies/Linux/Console/Команды над файлами и директориями.md",
+    "Studies/Networks/Лабы/6 - Автоматическая выдача ip адресов.md",
+    "Src/Lab_06_1.png",
+    "Studies/Networks/Лабы/5.2 - Разрешение маков разных подсетей через комутатор.md",
     "Studies/Linux/Console/Команды настройки доступа к файлам.md",
+    "Studies/Linux/Console/Команды настройки производительности системы..md",
     "Studies/Linux/Console/Команды над ссылками.md",
     "Studies/Linux/Console/Команды над пользователем.md",
     "Studies/Linux/Console/Консоль.md",
-    "Studies/Networks/Лабы/6.md",
     "Studies/Networks/Лабы/5.1 - Разрешение MAC адресов.md",
-    "Studies/Networks/Лабы/5.2 - Разрешение маков разных подсетей через комутатор.md",
     "Studies/Linux/Файловый менеджер/Структура файловой системы.md",
     "Studies/Networks/Адресация/Oктет.md",
     "Studies/Networks/Адресация/Работа ARP-запроса.md",
@@ -246,7 +205,6 @@
     "Studies/Programming/DOTNET/ООП в dotnet/Наследование обобщенных типов.md",
     "Studies/Programming/DOTNET/ООП в dotnet/Наследование.md",
     "Studies/Programming/DOTNET/ООП в dotnet/Абстрактные классы.md",
-    "Studies/Programming/DOTNET/ООП в dotnet/Виртуальные методы и свойства.md",
     "Studies/Тик",
     "Src/Pasted image 20241122150155.png",
     "Src/Pasted image 20241122145931.png",
@@ -255,7 +213,6 @@
     "Src/Pasted image 20241121205236.png",
     "Src/Pasted image 20241121203427.png",
     "Src/Pasted image 20241121203218.png",
-    "Src/Pasted image 20241121203103.png",
     "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet",
     "Studies/Programming/DOTNET/Основы программирования dotnet",
     "Studies/Networks/Адресация",
