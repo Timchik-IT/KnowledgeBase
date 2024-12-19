@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Networks/Адресация/DHCP.md",
+                "file": "Studies/Networks/Адресация/Работа ARP-запроса.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DHCP"
+              "title": "Работа ARP-запроса"
             }
           }
         ]
@@ -175,7 +175,10 @@
   },
   "active": "77b3068f624846d0",
   "lastOpenFiles": [
+    "Studies/Networks/Лабы/5.2 - Разрешение маков разных подсетей через комутатор.md",
+    "Studies/Networks/Лабы/5.1 - Разрешение MAC адресов.md",
     "Studies/Networks/Лабы/6 - Автоматическая выдача ip адресов.md",
+    "Studies/Linux/Console/Команды настройки производительности системы..md",
     "Studies/Networks/Адресация/DHCP.md",
     "Studies/Networks/Адресация/Proxy ARP.md",
     "Studies/Networks/Адресация/Oктет.md",
@@ -189,16 +192,13 @@
     "Studies/Networks/Адресация/Адресация.md",
     "Src/Pasted image 20241211180600.png",
     "Studies/Networks/Адресация/ARP.md",
-    "Studies/Networks/Лабы/5.2 - Разрешение маков разных подсетей через комутатор.md",
     "Studies/Linux/Console/Команды над группами пользователей.md",
     "Studies/Linux/Console/Команды над файлами и директориями.md",
     "Src/Lab_06_1.png",
     "Studies/Linux/Console/Команды настройки доступа к файлам.md",
-    "Studies/Linux/Console/Команды настройки производительности системы..md",
     "Studies/Linux/Console/Команды над ссылками.md",
     "Studies/Linux/Console/Команды над пользователем.md",
     "Studies/Linux/Console/Консоль.md",
-    "Studies/Networks/Лабы/5.1 - Разрешение MAC адресов.md",
     "Studies/Linux/Файловый менеджер/Структура файловой системы.md",
     "Src/Pasted image 20241204115111.png",
     "Src/Pasted image 20241203203617.png",
