@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Linux/Console/Команды управление базовым хранилищем.md",
+                "file": "Studies/Networks/Лабы/8 - IPv6 prefix delegation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды управление базовым хранилищем"
+              "title": "8 - IPv6 prefix delegation"
             }
           }
         ]
@@ -175,12 +175,19 @@
   },
   "active": "de93eb182c44dc04",
   "lastOpenFiles": [
+    "Src/Pasted image 20241224150553.png",
+    "Studies/Networks/Лабы/9 - Конфигурирование виртуальных локальных сетей (VLANs).md",
+    "Studies/Networks/Лабы/8 - IPv6 prefix delegation.md",
+    "Studies/Networks/Адресация/VLAN.md",
+    "Studies/Networks/Адресация/Транковый линк.md",
+    "Src/Pasted image 20241224144752.png",
+    "Studies/Networks/Лабы/6 - Автоматическая выдача ip адресов.md",
+    "Studies/Networks/Лабы/Лабы по сетям.md",
+    "Studies/Linux/Console/Команды управление базовым хранилищем.md",
     "Studies/Linux/Console/Команды управления процессами.md",
     "Studies/Linux/Console/Команды настройки доступа к файлам.md",
-    "Studies/Linux/Console/Команды управление базовым хранилищем.md",
     "Studies/Linux/Console/Команды настройки производительности системы..md",
     "Studies/Networks/Адресация/DHCP.md",
-    "Studies/Networks/Лабы/6 - Автоматическая выдача ip адресов.md",
     "Studies/Networks/Адресация/Proxy ARP.md",
     "Studies/Networks/Адресация/Oктет.md",
     "Studies/Networks/Адресация/NAT.md",
@@ -197,15 +204,9 @@
     "Studies/Linux/Console/Команды над группами пользователей.md",
     "Studies/Linux/Console/Команды над файлами и директориями.md",
     "Src/Lab_06_1.png",
-    "Studies/Linux/Console/Команды над ссылками.md",
-    "Studies/Linux/Console/Команды над пользователем.md",
-    "Studies/Linux/Console/Консоль.md",
-    "Studies/Networks/Лабы/5.1 - Разрешение MAC адресов.md",
-    "Studies/Linux/Файловый менеджер/Структура файловой системы.md",
     "Src/Pasted image 20241204115111.png",
     "Src/Pasted image 20241203203617.png",
     "Src/Pasted image 20241203173135.png",
-    "Studies/Networks/Лабы/Лабы по сетям.md",
     "Studies/Networks/Лабы",
     "Studies/Тик",
     "Src/Pasted image 20241122150155.png",
@@ -213,7 +214,6 @@
     "Studies/Programming/DOTNET/ООП в dotnet",
     "Src/Pasted image 20241121211528.png",
     "Src/Pasted image 20241121205236.png",
-    "Src/Pasted image 20241121203427.png",
     "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet",
     "Studies/Programming/DOTNET/Основы программирования dotnet",
     "Studies/Networks/Адресация",
