@@ -4,133 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "31789706e73bec82",
+        "id": "811bdc0039ac3e5c",
         "type": "tabs",
         "children": [
           {
-            "id": "45e7e097cc519acd",
+            "id": "07e5c225e4b84844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Системный анализ/UML.md",
+                "file": "Studies/ИИ/Практика/Нейронная сеть (практика).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UML"
+              "title": "Нейронная сеть (практика)"
             }
           },
           {
-            "id": "d44c29f06c17e0f5",
+            "id": "715f0c3c07aff4e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Системный анализ/Аналитик.md",
+                "file": "ВКР/Статья/Ссылки на статьи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аналитик"
+              "title": "Ссылки на статьи"
             }
           },
           {
-            "id": "f2a0774b0c6a21e1",
+            "id": "a94b982ab6735f0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Системный анализ/Аналитик.md",
+                "file": "ВКР/ВКР.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аналитик"
-            }
-          },
-          {
-            "id": "0ffeb63b57c45526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Системный анализ/Аналитик.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Аналитик"
-            }
-          },
-          {
-            "id": "f3a6a93b2ed57a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Системный анализ/Жизненный цикл ПО.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Жизненный цикл ПО"
-            }
-          },
-          {
-            "id": "805e9803818a3327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Системный анализ/Жизненный цикл ПО.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Жизненный цикл ПО"
-            }
-          },
-          {
-            "id": "63acc09bdeda3763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Системный анализ/Проектирование.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Проектирование"
-            }
-          },
-          {
-            "id": "1017803680f08a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Системный анализ/Нормативно правовые акты.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Нормативно правовые акты"
-            }
-          },
-          {
-            "id": "3b12f24facd13056",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "ВКР"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -283,54 +204,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63acc09bdeda3763",
+  "active": "a94b982ab6735f0c",
   "lastOpenFiles": [
-    "Studies/Системный анализ/Жизненный цикл ПО.md",
-    "Studies/Системный анализ/Диаграмма состояний.md",
-    "Studies/Системный анализ/Диаграмма последовательности.md",
-    "Studies/Системный анализ/Гост.md",
-    "Studies/Системный анализ/Нормативно правовые акты.md",
-    "Studies/Системный анализ/Требования.md",
-    "Studies/Системный анализ/Цикл разработки.md",
-    "Studies/Системный анализ/Диаграмма коммуникации.md",
-    "Studies/Системный анализ/Проектирование.md",
-    "Studies/Системный анализ/Аналитик.md",
-    "Studies/Системный анализ/Диаграмма вариантов использования.md",
-    "IDEF.md",
-    "Src/Pasted image 20250325201601.png",
-    "EPC.md",
-    "Src/Pasted image 20250325200447.png",
-    "Src/Pasted image 20250325200426.png",
-    "Src/Pasted image 20250325200408.png",
-    "Src/Pasted image 20250325200346.png",
-    "Src/Pasted image 20250325200322.png",
-    "Src/Pasted image 20250325200259.png",
-    "Studies/Системный анализ/Анализ предметной области.md",
-    "Studies/Системный анализ/Системные аналитики.md",
-    "Studies/Системный анализ/Моделирование бизнес-процессов.md",
-    "Studies/Системный анализ/Бизнес аналитики.md",
-    "Studies/Системный анализ/UML.md",
-    "Src/Pasted image 20250325200017.png",
-    "Src/Pasted image 20250325195955.png",
-    "Src/Pasted image 20250325195922.png",
-    "Studies/Системный анализ/Методологии.md",
-    "Studies/Networks/Адресация/Сабнетинг.md",
-    "Studies/Networks/Адресация/Маска.md",
-    "Studies/Programming/KISS.md",
-    "Studies/Programming/DOTNET/JIT.md",
-    "Studies/Programming/DOTNET/CS.md",
-    "Studies/Programming/DOTNET/ООП в dotnet/Абстрактные классы.md",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet/Типы данных.md",
+    "ВКР/Статья/Ссылки на статьи.md",
+    "задачи.md",
+    "Src/7090732-fig-5-source-small.gif",
+    "Src/Pasted image 20250922210708.png",
+    "Src/Pasted image 20250922190001.png",
+    "Src/Pasted image 20250922184621.png",
+    "Src/Pasted image 20250922184602.png",
+    "Src/Pasted image 20250922184541.png",
+    "Src/8053583-fig-10-source-small.gif",
+    "Src/kondr4-p5-kondr-small.gif",
+    "Src/10363572-fig-1-source-small.gif",
+    "Src/aruna1-p7-aruna-small 1.gif",
+    "ВКР/Статья/Статья.md",
+    "ВКР/ВКР.md",
+    "Studies/ИИ/Практика/Функция активации.md",
+    "ВКР/Статья",
+    "ВКР",
+    "Studies/ИИ/Практика/Функция потерь.md",
+    "Studies/ИИ/Практика/ReLU.md",
+    "Studies/ИИ/Практика/Многопеременная логистическая функция.md",
+    "Studies/ИИ/Практика/Аугментация данных.md",
+    "Studies/ИИ/Практика/Нейронная сеть (практика).md",
+    "Studies/ИИ/Нейронные сети.md",
+    "Studies/ИИ/Практика/Torch.md",
+    "Studies/ИИ/Практика/Тензор.md",
+    "Studies/ИИ/Лекции/Машинное обучение.md",
+    "Studies/ИИ/Лекции/Векторизация.md",
+    "Studies/ИИ/Лекции/Архитектура Трансформер.md",
+    "Studies/ИИ/Лекции/LSTM - Long Short Term Memory.md",
+    "Studies/ИИ/Лекции/Рекуррентные нейронные сети.md",
+    "Studies/ИИ/Лекции/Обработка естественного языка.md",
+    "Studies/ИИ/Лекции/Сверточные нейронные сети.md",
+    "Studies/ИИ/Лекции/Компьютерное зрение.md",
+    "Studies/ИИ/Лекции/Многослойные нейронные сети.md",
+    "Studies/ИИ/Лекции/Перцептрон.md",
+    "Studies/ИИ/Лекции/Сильный или истинный ИИ.md",
+    "Studies/ИИ/Лекции/Слабый ИИ.md",
+    "Studies/ИИ/Лекции/Типы Искусственного Интеллекта.md",
+    "Studies/ИИ/Практика",
+    "Studies/ИИ/Лекции",
+    "Studies/ИИ",
+    "Studies/SystemAnalysis",
+    "Стартап",
     "Studies/Системный анализ",
     "Studies/Linux/Лабы",
     "Studies/Networks/Лабы",
-    "Studies/Тик",
-    "Studies/Programming/DOTNET/ООП в dotnet",
-    "Studies/Programming/DOTNET/Классы, структуры и пространства имен в dotnet",
-    "Studies/Programming/DOTNET/Основы программирования dotnet",
-    "Studies/Networks/Адресация",
-    "Studies/Programming/OOP",
-    "Studies/Programming/DOTNET",
     "Studies/Untitled.canvas",
     "Books/Untitled.canvas"
   ]
