@@ -4,53 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "811bdc0039ac3e5c",
+        "id": "345bcc6e41dd1618",
         "type": "tabs",
         "children": [
           {
-            "id": "07e5c225e4b84844",
+            "id": "ab8d85a8300c9927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/ИИ/Практика/Нейронная сеть (практика).md",
+                "file": "Studies/Ropotics/Основы робототехники/Неточность датчиков.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Нейронная сеть (практика)"
+              "title": "Неточность датчиков"
             }
           },
           {
-            "id": "715f0c3c07aff4e5",
+            "id": "e2cb9e68986cd714",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВКР/Статья/Ссылки на статьи.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ссылки на статьи"
-            }
-          },
-          {
-            "id": "a94b982ab6735f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВКР/ВКР.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ВКР"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -82,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 682.5
   },
   "right": {
     "id": "f522f51ea0afce4a",
@@ -181,8 +164,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ]
@@ -204,54 +187,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a94b982ab6735f0c",
+  "active": "ab8d85a8300c9927",
   "lastOpenFiles": [
-    "ВКР/Статья/Ссылки на статьи.md",
-    "задачи.md",
-    "Src/7090732-fig-5-source-small.gif",
-    "Src/Pasted image 20250922210708.png",
-    "Src/Pasted image 20250922190001.png",
-    "Src/Pasted image 20250922184621.png",
-    "Src/Pasted image 20250922184602.png",
-    "Src/Pasted image 20250922184541.png",
-    "Src/8053583-fig-10-source-small.gif",
-    "Src/kondr4-p5-kondr-small.gif",
-    "Src/10363572-fig-1-source-small.gif",
-    "Src/aruna1-p7-aruna-small 1.gif",
-    "ВКР/Статья/Статья.md",
-    "ВКР/ВКР.md",
-    "Studies/ИИ/Практика/Функция активации.md",
-    "ВКР/Статья",
-    "ВКР",
-    "Studies/ИИ/Практика/Функция потерь.md",
-    "Studies/ИИ/Практика/ReLU.md",
-    "Studies/ИИ/Практика/Многопеременная логистическая функция.md",
-    "Studies/ИИ/Практика/Аугментация данных.md",
-    "Studies/ИИ/Практика/Нейронная сеть (практика).md",
-    "Studies/ИИ/Нейронные сети.md",
-    "Studies/ИИ/Практика/Torch.md",
-    "Studies/ИИ/Практика/Тензор.md",
-    "Studies/ИИ/Лекции/Машинное обучение.md",
-    "Studies/ИИ/Лекции/Векторизация.md",
-    "Studies/ИИ/Лекции/Архитектура Трансформер.md",
-    "Studies/ИИ/Лекции/LSTM - Long Short Term Memory.md",
-    "Studies/ИИ/Лекции/Рекуррентные нейронные сети.md",
-    "Studies/ИИ/Лекции/Обработка естественного языка.md",
-    "Studies/ИИ/Лекции/Сверточные нейронные сети.md",
-    "Studies/ИИ/Лекции/Компьютерное зрение.md",
-    "Studies/ИИ/Лекции/Многослойные нейронные сети.md",
-    "Studies/ИИ/Лекции/Перцептрон.md",
-    "Studies/ИИ/Лекции/Сильный или истинный ИИ.md",
-    "Studies/ИИ/Лекции/Слабый ИИ.md",
-    "Studies/ИИ/Лекции/Типы Искусственного Интеллекта.md",
-    "Studies/ИИ/Практика",
-    "Studies/ИИ/Лекции",
-    "Studies/ИИ",
-    "Studies/SystemAnalysis",
-    "Стартап",
-    "Studies/Системный анализ",
-    "Studies/Linux/Лабы",
-    "Studies/Networks/Лабы",
+    "Studies/Ropotics/Основы робототехники/Технологические циклы.md",
+    "Studies/Ropotics/Основы робототехники/Робототехнические симуляторы.md",
+    "Studies/Ropotics/Основы робототехники/Преподаватель.md",
+    "Studies/Ropotics/Основы робототехники/Основы робототехники.md",
+    "Studies/Ropotics/Основы робототехники/3D работы.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Studies/Ropotics/Основы робототехники/Что такое робот.md",
+    "Studies/Ropotics/Основы робототехники/Зловещая долина.md",
+    "Studies/Ropotics/Основы робототехники/История робототехники.md",
+    "Studies/Ropotics/Основы робототехники/Неточность датчиков.md",
+    "Studies/Ropotics/CV/Global thresholding.md",
+    "Src/Pasted image 20260916175024.png",
+    "Src/Pasted image 20260916174828.png",
+    "Src/Pasted image 20260916174702.png",
+    "Src/Pasted image 20260916174645.png",
+    "Studies/Ropotics/CV/Threshholding Classifications.md",
+    "Src/Pasted image 20260916174607.png",
+    "Studies/Ropotics/CV/Thresholding.md",
+    "Src/Pasted image 20260916173806.png",
+    "Studies/Ropotics/CV/Binary Images & Morphological Operations.md",
+    "Studies/Ropotics/CV/CV.md",
+    "Studies/Ropotics/CV/Components of a Machine Vision System.md",
+    "Studies/Ropotics/ROS/ROS.md",
+    "Studies/Ropotics/ROS/Преподаватель.md",
+    "Studies/Ropotics/CV/Digital Camers/Components.md",
+    "Src/Pasted image 20260909183453.png",
+    "Src/Pasted image 20260909183345.png",
+    "Src/Pasted image 20260909183238.png",
+    "Src/Pasted image 20260909183226.png",
+    "Studies/Ropotics/CV/Digital Camers/Types of Cameras.md",
+    "Studies/Ropotics/CV/Digital Camers/Digital Cameras.md",
+    "Studies/Ropotics/CV/Digital Camers/Image Acquisition.md",
+    "Studies/Ropotics/CV/Digital Camers/Image Sensors.md",
+    "Studies/Ropotics/CV/Digital Camers/Importance of Lighting.md",
+    "Studies/Ropotics/CV/Digital Camers",
+    "Studies/Ropotics/CV",
+    "Studies/Ropotics/Программная инженерия/Преподаватель.md",
+    "Studies/Ropotics/Программная инженерия/Поколения языков программирования.md",
+    "Studies/Ropotics/Основы робототехники",
+    "Studies/Robotics",
+    "Studies/Ropotics/Программная инженерия",
+    "Studies/Ropotics/ROS",
+    "Studies/Ropotics/ROS2",
+    "Studies/Ropotics",
     "Studies/Untitled.canvas",
     "Books/Untitled.canvas"
   ]
