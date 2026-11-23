@@ -4,34 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "345bcc6e41dd1618",
+        "id": "5ebce624fb1941e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab8d85a8300c9927",
+            "id": "549a60c3e45f402c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Ropotics/Основы робототехники/Неточность датчиков.md",
+                "file": "Studies/HomeLab/HomeLab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Неточность датчиков"
+              "title": "HomeLab"
             }
           },
           {
-            "id": "e2cb9e68986cd714",
+            "id": "67871be15cf61d62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Studies/HomeLab/Theory/DHCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DHCP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +61,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -90,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.5
+    "width": 200
   },
   "right": {
     "id": "f522f51ea0afce4a",
@@ -177,63 +182,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab8d85a8300c9927",
+  "active": "67871be15cf61d62",
   "lastOpenFiles": [
+    "Studies/HomeLab/Theory/IP-адресация и подсети.md",
+    "Studies/HomeLab/Theory/DHCP.md",
+    "Studies/Networks/Адресация/DHCP.md",
+    "Studies/HomeLab/HomeLab.md",
+    "Studies/HomeLab/Theory/Моя домашняя сеть.md",
+    "Studies/Networks/Адресация/Маска.md",
+    "Src/Pasted image 20261122002025.png",
+    "Src/Pasted image 20261122002016.png",
+    "Src/Pasted image 20261122001536.png",
+    "Src/Pasted image 20261122001524.png",
+    "Src/Pasted image 20261122001512.png",
+    "Src/Pasted image 20261122001342.png",
+    "Studies/HomeLab/Theory/VLSM.md",
+    "Studies/HomeLab/Theory/CIDR.md",
+    "Untitled.base",
+    "Studies/Networks/Адресация/IPv4.md",
+    "Studies/Networks/Адресация/Адресация.md",
+    "Studies/Networks/Сети.md",
+    "Studies/Networks/Адресация/Работа ARP-запроса.md",
+    "Studies/Networks/Адресация/Сабнетинг.md",
+    "Studies/Networks/Адресация/IP.md",
+    "Src/Pasted image 20261121235042.png",
+    "Src/Pasted image 20261121234937.png",
+    "Src/Pasted image 20261121234525.jpg",
+    "Theory",
+    "Studies/HomeLab/Design",
+    "Studies/HomeLab/Incidents",
+    "Studies/HomeLab/Labs",
+    "Studies/HomeLab/Services",
+    "Studies/HomeLab/Hardware/NetworkDevices",
+    "Studies/HomeLab/Hardware/Servers",
+    "Studies/HomeLab/Hardware",
+    "Studies/HomeLab/Theory",
+    "Studies/Ropotics/Основы робототехники/Неточность датчиков.md",
     "Studies/Ropotics/Основы робототехники/Технологические циклы.md",
     "Studies/Ropotics/Основы робототехники/Робототехнические симуляторы.md",
     "Studies/Ropotics/Основы робототехники/Преподаватель.md",
     "Studies/Ropotics/Основы робототехники/Основы робототехники.md",
     "Studies/Ropotics/Основы робототехники/3D работы.md",
-    "Untitled.base",
-    "Untitled 1.base",
     "Studies/Ropotics/Основы робототехники/Что такое робот.md",
     "Studies/Ropotics/Основы робототехники/Зловещая долина.md",
     "Studies/Ropotics/Основы робототехники/История робототехники.md",
-    "Studies/Ropotics/Основы робототехники/Неточность датчиков.md",
     "Studies/Ropotics/CV/Global thresholding.md",
     "Src/Pasted image 20260916175024.png",
-    "Src/Pasted image 20260916174828.png",
-    "Src/Pasted image 20260916174702.png",
-    "Src/Pasted image 20260916174645.png",
     "Studies/Ropotics/CV/Threshholding Classifications.md",
-    "Src/Pasted image 20260916174607.png",
     "Studies/Ropotics/CV/Thresholding.md",
-    "Src/Pasted image 20260916173806.png",
-    "Studies/Ropotics/CV/Binary Images & Morphological Operations.md",
-    "Studies/Ropotics/CV/CV.md",
-    "Studies/Ropotics/CV/Components of a Machine Vision System.md",
-    "Studies/Ropotics/ROS/ROS.md",
-    "Studies/Ropotics/ROS/Преподаватель.md",
-    "Studies/Ropotics/CV/Digital Camers/Components.md",
-    "Src/Pasted image 20260909183453.png",
-    "Src/Pasted image 20260909183345.png",
-    "Src/Pasted image 20260909183238.png",
-    "Src/Pasted image 20260909183226.png",
-    "Studies/Ropotics/CV/Digital Camers/Types of Cameras.md",
-    "Studies/Ropotics/CV/Digital Camers/Digital Cameras.md",
-    "Studies/Ropotics/CV/Digital Camers/Image Acquisition.md",
-    "Studies/Ropotics/CV/Digital Camers/Image Sensors.md",
-    "Studies/Ropotics/CV/Digital Camers/Importance of Lighting.md",
-    "Studies/Ropotics/CV/Digital Camers",
-    "Studies/Ropotics/CV",
-    "Studies/Ropotics/Программная инженерия/Преподаватель.md",
-    "Studies/Ropotics/Программная инженерия/Поколения языков программирования.md",
-    "Studies/Ropotics/Основы робототехники",
-    "Studies/Robotics",
-    "Studies/Ropotics/Программная инженерия",
-    "Studies/Ropotics/ROS",
-    "Studies/Ropotics/ROS2",
-    "Studies/Ropotics",
     "Studies/Untitled.canvas",
     "Books/Untitled.canvas"
   ]
